@@ -1,6 +1,6 @@
-package algo_trics;
+package leetcode;
 
-public class Solution {
+public class countBits {
     public int[] countBits(int num) {
         int[] arr = new int[num + 1];
         arr[0] = 0;
